@@ -1,0 +1,4 @@
+main.c:183:6:SystemClock_Config	88	static
+main.c:257:6:init_SPI3	0	static
+main.c:80:5:main	96	static
+main.c:376:6:_Error_Handler	0	static
